@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Matixs", ".", "{0064D42E-1732-4CEF-A009-AA86F034D307}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50016"
+		Debug.AspNetCompiler.PhysicalPath = "..\Matixs\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50016\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50016"
+		Release.AspNetCompiler.PhysicalPath = "..\Matixs\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50016\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50016"
+		SlnRelativePath = "..\Matixs\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0064D42E-1732-4CEF-A009-AA86F034D307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0064D42E-1732-4CEF-A009-AA86F034D307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0DA4ACD-44B4-458E-A6B8-C7FA4EEDC4D9}
+	EndGlobalSection
+EndGlobal
